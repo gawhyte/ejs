@@ -6,10 +6,11 @@
     "engine",
     "ejs"
   ],
-  "version": "2.3.4",
+  "version": "2.3.4.1",
   "author": "Matthew Eernisse <mde@fleegix.org> (http://fleegix.org)",
   "contributors": [
-    "Timothy Gu <timothygu99@gmail.com> (https://timothygu.github.io)"
+    "Timothy Gu <timothygu99@gmail.com> (https://timothygu.github.io)",
+    "Greg Whyte <greg.a.whyte@gmail.com>",
   ],
   "license": "Apache-2.0",
   "main": "./lib/ejs.js",
